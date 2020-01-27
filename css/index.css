@@ -236,5 +236,26 @@ a img{
     margin-bottom: 20px;
 }
 
+/*blog css */
 
+#midBlog{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between; 
+}
 
+.blogInner{
+    width:45%;
+    margin-top:10px;
+}
+
+#topImgBlog{
+ height:250px;
+}
+
+#blogRules{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
