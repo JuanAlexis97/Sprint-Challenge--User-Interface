@@ -259,3 +259,13 @@ a img{
     margin-top: 30px;
     margin-bottom: 30px;
 }
+
+.innerBlogImg{
+    height: 50%;
+    width:75%;
+}
+
+#blogRules img{
+    height: 300px;
+    width: 250px;
+}
